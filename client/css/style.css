@@ -1,0 +1,13 @@
+:root{--bs-primary:#3730a3;--bs-primary-rgb:55,48,163}
+body{background:#f6f7fb;color:#1e293b}
+.btn-primary{--bs-btn-bg:#3730a3;--bs-btn-border-color:#3730a3;--bs-btn-hover-bg:#312e81;--bs-btn-hover-border-color:#312e81}
+.navbar-brand{font-weight:700;color:#3730a3!important}
+.hero{background:#eef0ff;border-radius:.5rem;padding:3rem 2rem}
+.hero .art{font-size:9rem;color:#3730a3;opacity:.85}
+.card{border:1px solid #e2e8f0;border-radius:.5rem}
+.cat-card{text-align:center;padding:1.2rem .5rem}.cat-card i{font-size:2rem;color:#3730a3}
+.step{width:2rem;height:2rem;border-radius:50%;background:#3730a3;color:#fff;display:inline-flex;align-items:center;justify-content:center}
+.tl{list-style:none;padding-left:0}.tl li{padding:.4rem 0 .4rem 1.8rem;position:relative;color:#94a3b8}
+.tl li:before{content:"\25CB";position:absolute;left:0}.tl li.done{color:#16a34a;font-weight:600}.tl li.done:before{content:"\25CF"}
+.tl li.now{color:#3730a3;font-weight:700}.tl li.now:before{content:"\25C9"}
+footer{background:#1e1b4b;color:#c7d2fe}footer a{color:#c7d2fe;text-decoration:none}
